@@ -36,4 +36,4 @@ significa que el 20 % de data no es usado durante todo el proyecto y es usado so
 cuando ya poseemos los modelos predictivos. Les llamamos ?set de validaci´on y pruebas?
 
 Video explicativo
-Pendiente URL
+[YouTube](https://youtu.be/wtm6ccLFcUQ)
